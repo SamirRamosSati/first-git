@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Favorite Color: White
 Dream Job: Cyber Security
 Current City: Vancouver
@@ -7,10 +7,12 @@ Favorite Movie: Mufasa
 Favorite Music: Die with a smile
 Languages:
 - POrtuguese
-English
-=======
+- English
 Skills:
-- Proeficient
-- Team worker
-- Multi tasking
->>>>>>> bio-update
+- Proeficient 
+- Team worker 
+- Multi tasking 
+Languages:
+- Portuguese
+- English
+
