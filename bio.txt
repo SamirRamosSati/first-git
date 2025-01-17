@@ -1,4 +1,7 @@
 Skills:
-- Proeficient
-- Team worker
-- Multi tasking
+- Proeficient 
+- Team worker 
+- Multi tasking 
+Languages:
+- Portuguese
+- English
