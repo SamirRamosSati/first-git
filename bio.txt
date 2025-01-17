@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Favorite Color: White
 Dream Job: Cyber Security
 Current City: Vancouver
@@ -7,3 +8,9 @@ Favorite Music: Die with a smile
 Languages:
 - POrtuguese
 English
+=======
+Skills:
+- Proeficient
+- Team worker
+- Multi tasking
+>>>>>>> bio-update
